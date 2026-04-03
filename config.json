@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "𝐒𝐚𝐠𝐨𝐫 𝐂𝐡𝐨𝐰𝐝𝐡𝐮𝐫𝐲",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -8,17 +8,17 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
+  "EMAIL": "kingsagor153@gmail.com",
+  "PASSWORD": "Sagor11@",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "𝐉𝐞𝐫𝐫𝐲 𝐂𝐡𝐚𝐭 𝐛𝐨𝐭",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "61568607544765",
+    "61568607544765",
+    "61568607544765"
   ],
   "NDH": ["100044713412032"],
   "adminOnly": false,
